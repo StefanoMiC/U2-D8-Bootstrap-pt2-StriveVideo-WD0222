@@ -1,0 +1,31 @@
+body {
+  color: rgb(233, 233, 233);
+  background-color: #0f171e;
+}
+
+.navbar {
+  background-color: #0f171e;
+  background-image: linear-gradient(180deg, #1b2530 0, rgba(27, 37, 48, 0.85));
+  padding: 16px 48px;
+}
+
+.carousel-indicators li {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+}
+
+a {
+  color: #79b8f3;
+}
+
+a:hover {
+  color: #90dffe;
+  text-decoration: none;
+}
+
+.prime-badge {
+  position: absolute;
+  left: 0.25rem;
+  top: 0;
+}
